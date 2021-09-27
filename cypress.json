@@ -4,7 +4,7 @@
   "component": {
     "componentFolder": "src",
     "testFiles": "**/*.spec.ts",
-    "pluginsFile": "cypress/plugins",
-    "supportFile": "cypress/support"
+    "pluginsFile": "cypress/plugins/index.ts",
+    "supportFile": "cypress/support/index.ts"
   }
 }
